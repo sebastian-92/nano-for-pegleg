@@ -1,9 +1,9 @@
 (async () => {
-const demoMode = true;
+const demoMode = false;
 const rammerheadEnabled = false;
-const scramjetEnabled = false;
+const scramjetEnabled = true;
 const uvEnabled = true;
-const defaultService = "uv";
+const defaultService = "scramjet";
 
 const currentScript = document.currentScript;
 
